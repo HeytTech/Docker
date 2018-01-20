@@ -16,4 +16,3 @@ WORKDIR /app
 
 # Run Application.
 ENTRYPOINT ["dotnet", "BoxGraderWeb.dll"]
-
